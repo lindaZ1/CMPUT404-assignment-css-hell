@@ -37,19 +37,32 @@ li.tab{
   padding-left:5em;
 }
 
-#aboutMe,#exp,#whyMe {
+#aboutMe{
+
+  vertical-align:left-column;
+  padding:15px;
+  margin-top:2em;
+  background-color:purple;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  color:red;
+}
+
+#exp,#whyMe {
   position:relative;
   padding:15px;
   margin-top:2em;
-  margin-left:25em;
+  margin-left:10em;
   margin-right:30em;
   background-color:#7CFC00;
   font-family:"Comic Sans MS", cursive, sans-serif;
   color:red;
 }
 
+
+
 #sidebar {
   float:right;
+  float:bottom;
   padding-right:10em;
   padding-top:2em;
   background-color:yellow;
