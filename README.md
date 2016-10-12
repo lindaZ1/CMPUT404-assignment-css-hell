@@ -26,12 +26,16 @@ Assignment Part I:
 
 body: changed background colour to #faebd0      
 
-h1: larger font, center text, color to navy
+h1: larger font, center text, color to navy   
+
+h2,h3: larger font, center text
 
 h5: add solid border of 2px, center text
 
 p: set indent of 1.5em, set margin of 1ex, 
 
-img: shrink image by at most 50%, center image
+img: shrink image by at most 50%, center image       
+
+
 
 http://stackoverflow.com/questions/7055393/center-image-using-text-align-center
