@@ -1,0 +1,65 @@
+body{
+  background:aquamarine;
+}
+
+#header{
+  font-size:200%;
+  text-align:center;
+  color:blue;
+  background:url(bad-header.png);
+  padding-top:32px;
+  padding-bottom:32px;
+}
+
+h5{
+  margin:0;
+  padding:0;
+}
+
+h6{
+  margin:0;
+  padding:0;
+}
+
+img {
+  float:left;
+  padding-left:1em;
+  padding-top:1em;
+}
+
+ul.menu{
+  text-align:center;
+  padding-right:5em;
+}
+
+li.tab{
+  display:inline;
+  padding-left:5em;
+}
+
+#aboutMe,#exp,#whyMe {
+  position:relative;
+  padding:15px;
+  margin-top:2em;
+  margin-left:25em;
+  margin-right:30em;
+  background-color:#7CFC00;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  color:red;
+}
+
+#sidebar {
+  float:right;
+  padding-right:10em;
+  padding-top:2em;
+  background-color:yellow;
+}
+
+#contact{
+  text-align:center;
+  background:url(badFooter.jpg);
+  padding-top:3em;
+  padding-bottom:3em;
+}
+
+
