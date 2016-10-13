@@ -54,9 +54,16 @@ li.tab{
   padding-right:10em;
   padding-top:1em;
   border-style:solid;
-  border-radius:5px;;
+  border-radius:5px;
   border-color:#B0C4DE;
   background-color:#B0C4DE;
+}
+
+#sidebar h2{
+  text-align:center;
+}
+#sidebar ul{
+  list-style-type:none;
 }
 
 #contact{
