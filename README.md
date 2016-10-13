@@ -39,3 +39,4 @@ img: shrink image by at most 50%, center image
 
 
 http://stackoverflow.com/questions/7055393/center-image-using-text-align-center
+http://www.w3schools.com/
